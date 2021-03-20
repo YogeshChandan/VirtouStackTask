@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217033968705",
+    "project_id": "task-37f51",
+    "storage_bucket": "task-37f51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217033968705:android:986850c7b6a19e45c58ac0",
+        "android_client_info": {
+          "package_name": "com.yogesh.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217033968705-ui2akkffocu9rnc5e16pvc617h06iiv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMmyOh_fbrJK0cFgNBzueBClR113tVO8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217033968705-ui2akkffocu9rnc5e16pvc617h06iiv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
